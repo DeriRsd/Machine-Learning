@@ -1,5 +1,5 @@
 height = 4.0
 print(type(height))
 
-nama = "Sandi"
+nama = "Deri"
 print(type(nama))
