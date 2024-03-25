@@ -13,7 +13,7 @@ nama = "Deri"
 print(nama)
 print(type(nama))
 
-#List or Array
+#List
 tall = [2, 1.79, 1.82, 1.90, 1.80]
 print(tall)
 print(type(tall))
