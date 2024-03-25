@@ -4,3 +4,5 @@ Tab = pd.read_csv("Tab.csv")
 print(Tab)
 
 print(Tab["Negara"])
+
+print(Tab.Ibukota)
