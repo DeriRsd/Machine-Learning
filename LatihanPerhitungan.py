@@ -22,6 +22,18 @@ bagi1 = float(input("Masukan Angka Ke-1 : "))
 bagi2 = float(input("Masukan Angka Ke-2 : "))
 print("Hasil bagi   : ", bagi1/bagi2)
 
+#Pembagian Bulat
+print("\nPembagian Bulat")
+bagibulat1 = float(input("Masukan Angka Ke-1 : "))
+bagibulat2 = float(input("Masukan Angka Ke-2 : "))
+print("Hasil bagi   : ", bagibulat1//bagibulat2)
+
+#Modulo
+print("\nModulo")
+angkamodulo = float(input("Masukan Angka      : "))
+modulo = float(input("Masukan Pangkat    : "))
+print("Pangkat duanya adalah ", angkamodulo%modulo)
+
 #Pangkat
 print("\nPangkat")
 angka = float(input("Masukan Angka      : "))
